@@ -1,0 +1,26 @@
+body {
+    font-family: tahoma;
+    letter-spacing: 1px;
+    background: #eec2b0;
+    padding: 20px;
+}
+
+a, a:link, a:visited {
+    color: #A50815;
+}
+
+a:hover {
+    color: #F67D51;
+}
+
+h1 {
+    color: #A50815;
+    letter-spacing: 3px;
+    padding-left: 40px;
+    border-left: 40px solid;
+    font-family: georgia;
+}
+
+img {
+    border: 4px double #EC4E2B;
+}
